@@ -1,2 +1,2 @@
 # gittutorialDev
-## I like git 
+## Developer B says she I like git 
